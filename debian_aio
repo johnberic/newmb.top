@@ -12,8 +12,8 @@ HYSTERIA_TYPE='default';
 PORT_VLESS='442';
 API_LINK='https://newmb.top/api/authentication';
 API_KEY='@Tknetwork';
-DOMAIN=iznl.tkdns.top
-NS=avxy.tkdns.top
+DOMAIN=vsu3.tkdns.top
+NS=03wp.tkdns.top
 timedatectl set-timezone Asia/Riyadh
 if [[ $(grep "nogroup" /etc/group) ]]; then
     cert_group="nogroup"
